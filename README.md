@@ -1,5 +1,7 @@
 # Natural-Experiments-in-R
 
+Re-creating a study
+
 - 2 SLS Standardized Effect.html:
 Output of the two-stage least-squares regression, regressing poverty rate and inequality (Gini Index) on the standardized dissimilarity coefficents, using the Railway Density Index an instrumental variable.
 - 2 SlS.html:
